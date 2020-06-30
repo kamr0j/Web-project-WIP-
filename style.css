@@ -1,0 +1,73 @@
+body
+{
+    background-color: lightgray;
+    color: black;
+    font-size: 18px;
+    margin: 0 !important;
+	
+}
+
+.container
+    {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+    .logo
+    {
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding: 15px;
+    }
+    .menu
+    {
+        
+        padding: 20px;
+        
+    }
+.nav
+{
+        
+        padding: 20px;
+        
+    }
+.add
+{
+        text-align: center;
+        padding: 20px;
+        
+    }
+
+    .main
+    {
+        text-align: center;
+        padding: 20px;
+        
+    }
+    
+    .footer
+    {
+        clear: both;
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding: 20px;
+    }   
+
+a.navlink
+{
+ color: red;
+ text-decoration: none;
+}
+a:visited
+{
+    color:black;
+}
+ 
+
+a:hover
+{
+    color: blue;
+}
